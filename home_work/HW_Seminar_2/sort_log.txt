@@ -1,0 +1,4 @@
+Iteration 1: 12 33 11 7 323 
+Iteration 2: 12 11 7 33 323 
+Iteration 3: 11 7 12 33 323 
+Iteration 4: 7 11 12 33 323 
